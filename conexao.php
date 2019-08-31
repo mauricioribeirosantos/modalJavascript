@@ -6,3 +6,6 @@
 	$banco = "cadastro";
 
 	$db = mysqli_connect($server, $usuario, $senha, $banco);
+
+	//teste
+	
