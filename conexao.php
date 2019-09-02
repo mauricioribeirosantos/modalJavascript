@@ -7,6 +7,4 @@
 
 	$db = mysqli_connect($server, $usuario, $senha, $banco);
 
-	//teste
-	//teste 2
-	//teste 3
+	
